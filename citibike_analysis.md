@@ -43,4 +43,6 @@ The majority of the top end locations are listed again heavily populated in the 
 
 # Summary 
 
-New York City being the number one city in America of the most people and Des Moines, IA population being at 214,237 as of July 1, 2019, in my opinion Des Moines will not come close to becoming a profitable Citi Bike business.   
+New York City being the number one city in America of the most people and Des Moines, IA population being at 214,237 as of July 1, 2019, in my opinion Des Moines will not come close to becoming a profitable Citi Bike business.  
+
+See link for source (under the Population tab) :  https://www.census.gov/quickfacts/desmoinescityiowa
